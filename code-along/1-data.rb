@@ -17,3 +17,8 @@
 # Combine strings and variables
 
 # String manipulation
+
+# puts the product of x and y on screen
+put x * your
+
+# store
